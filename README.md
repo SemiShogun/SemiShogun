@@ -14,10 +14,10 @@ Ram from Re:Zero.
 
 ### Q/A???
 #### Who's the person in my profile picture?
-"Nene Sakura" from "New Game!", you may consider her to be the best programmer girl of the series 😎 
+"Nene Sakura" from "New Game!". She's the best girl of the series 😎 
 
 #### Why are you so cringy?
-You may find me to be quite the cringy person but no, I'm not cringy person at all... Well not in real life. 
+You may find me to be quite the cringy person but no, I'm not a cringy person at all... Well at least not in real life. 
 
 
 <!--
