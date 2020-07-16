@@ -2,19 +2,19 @@
 
 My name's Jamie and I strive to be a better programmer.
 
-#### Best girl
-Ram from Re:Zero.
+#### Best dev girl
+"Nene Sakura" from "New Game!" 
 <!--
 ![Best Waifu](https://images7.alphacoders.com/719/719591.png)
 -->
 
-<img src="https://samreality.files.wordpress.com/2016/06/zero-10.jpg"
+<img src=""
      alt="Best Girl"
      style="float: left; size: 50px;" />
 
 ### Q/A???
 #### Who's the person in my profile picture?
-"Nene Sakura" from "New Game!". She's the best girl of the series 😎 
+"Ram" from "Re:Zero". She's the 2nd best girl of the series 😎 
 
 #### Why are you so cringy?
 You may find me to be quite the cringy person but no, I'm not a cringy person at all... Well at least not in real life. 
