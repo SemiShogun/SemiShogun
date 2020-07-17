@@ -8,6 +8,11 @@ My name's Jamie and I strive to be a better programmer.
 <img src="/Sakura_Nene_CPP.jpg"
      style="width: 50%;" />
 
+#### Personal TODO List
+- Create a personalized blog with an integrated Javascript CMS
+- Create a Anilist Blog that automatically tracks your manga list
+- Advance to Kyu 5 (Yes I suck at maths)
+
 ### Q/A???
 #### Who's the person in my profile picture?
 "Ram" from "Re:Zero". She's the 2nd best girl of the series 😎 
