@@ -5,7 +5,7 @@ My name's Jamie and I strive to be a better programmer.
 #### Best dev girl
 "Nene Sakura" from "New Game!" 
 
-<img src="assets/Sakura_Nene_CPP.jpg"
+<img src="/assets/Sakura_Nene_CPP.jpg"
      style="width: 50%;" />
 
 #### Personal TODO List
