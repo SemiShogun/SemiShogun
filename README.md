@@ -1,6 +1,6 @@
 ### Why hi there! ヽ(✿ﾟ▽ﾟ)ノ
 
-My name's Jamie and I strive to be a better programmer.
+My name's Jamie and I strive to be a better programmer. 
 
 #### Best dev girl
 "Nene Sakura" from "New Game!" 
