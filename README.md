@@ -7,7 +7,7 @@ My name's Jamie and I strive to be a better programmer.
 
 <img src="/assets/Sakura_Nene_CPP.jpg"
      style="width: 50%;" />
-
+ 
 #### Personal TODO List
 - Create a personalized blog with an integrated Javascript CMS
 - Create a Anilist Blog that automatically tracks your manga list
