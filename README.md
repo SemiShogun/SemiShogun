@@ -1,25 +1,30 @@
 ### Why hi there! ヽ(✿ﾟ▽ﾟ)ノ
 
-My name's Jamie and I strive to be a better programmer. 
+My name's Jamie and I strive to be a better programmer.
 
-#### Best dev girl
-"Nene Sakura" from "New Game!" 
+![Waving](https://media1.tenor.com/images/bb3c7292d3c2e75ba4b51ec15bb9bf3b/tenor.gif?itemid=17227125)
 
-<img src="/assets/Sakura_Nene_CPP.jpg"
-     style="width: 50%;" />
- 
-#### Personal TODO List
-- Create a personalized blog with an integrated Javascript CMS
-- Create a Anilist Blog that automatically tracks your manga list
-- Advance to Kyu 5 (Yes I suck at maths)
-
-### Q/A???
-#### Who's the person in my profile picture?
-"Ram" from "Re:Zero". She's the 2nd best girl of the series 😎 
-
-#### Why are you so cringy?
-You may find me to be quite the cringy person but no, I'm not a cringy person at all... Well not in real life. 
-
+```javascript
+const jamie = {
+     pronouns: "he" | "him",
+     languages: [Javascript, Typescript, Java, HTML, CSS, Python],
+     tools: [MongoDB, Express, React, Vue, Node, Spring Boot, SCSS, JSP],
+     learning {
+          languages: [C++],
+          architecture: ["microservices", "design patterns"]
+     },
+     hobbies: ["Programming", "Anime", "Gaming", "Sketching"],
+     todo {
+          website: "Create a personalised website with an integrated Javascript CMS",
+          anime: "Create an Anilist bot that automatically tracks your read mangas",
+          discord: "Create some dumb discord bot, idk",
+          codeforces: "Become a competitive programmer",
+          codewars: "Advance to Kyu 5",
+          app: "Tinder for dogs?"
+     },
+     favoriteAnimes: ["Re:Zero", "Uchuu Senkan Yamato 2199", "Shinsekai Yori", "Baka to Test to Shoukanjuu", "Steins;Gate", "Tengen Toppa Gurren Lagann", "World Torigga"]
+}
+```
 
 <!--
 **NectoJ/NectoJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
