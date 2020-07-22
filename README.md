@@ -1,8 +1,12 @@
-### Why hi there! ヽ(✿ﾟ▽ﾟ)ノ
+<h2>Why hi there! ヽ(✿ﾟ▽ﾟ)ノ</h2>
+
+<img align='right' src="https://media1.tenor.com/images/bb3c7292d3c2e75ba4b51ec15bb9bf3b/tenor.gif?itemid=17227125" width="300">
 
 My name's Jamie and I strive to be a better programmer.
 
-![Waving](https://media1.tenor.com/images/bb3c7292d3c2e75ba4b51ec15bb9bf3b/tenor.gif?itemid=17227125)
+<em>Software Engineer Apprentice at <a href="https://ethz.ch/de.html">ETHz</a></em>
+
+<h3>A little about myself...</h3>
 
 ```javascript
 const jamie = {
@@ -13,7 +17,7 @@ const jamie = {
           languages: [C++],
           architecture: ["microservices", "design patterns"]
      },
-     hobbies: ["Programming", "Anime", "Gaming", "Sketching"],
+     hobbies: ["Programming", "Anime", "Gaming", "Sketching", "Jogging"],
      todo {
           website: "Create a personalised website with an integrated Javascript CMS",
           anime: "Create an Anilist bot that automatically tracks your read mangas",
