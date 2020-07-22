@@ -1,12 +1,16 @@
 <h2>Why hi there! ヽ(✿ﾟ▽ﾟ)ノ</h2>
 
-<img align='right' src="https://media1.tenor.com/images/bb3c7292d3c2e75ba4b51ec15bb9bf3b/tenor.gif?itemid=17227125" width="300">
+<img align='right' src="https://media1.tenor.com/images/bb3c7292d3c2e75ba4b51ec15bb9bf3b/tenor.gif?itemid=17227125" width="250">
 
 My name's Jamie and I strive to be a better programmer.
 
 <em>Software Engineer Apprentice at <a href="https://ethz.ch/de.html">ETHz</a></em>
 
-<h3>A little about myself...</h3>
+<em>Living in Zürich, Switzerland</em>
+
+<br>
+
+### <img align='left' src="https://media.giphy.com/media/3ohze4bE4BVtw4Jvkk/giphy.gif" width="50"> Something about myself...
 
 ```javascript
 const jamie = {
