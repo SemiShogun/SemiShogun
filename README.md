@@ -10,7 +10,7 @@ My name's Jamie and I strive to be a better programmer.
 
 <br>
 
-### <img align='left' src="https://media.giphy.com/media/3ohze4bE4BVtw4Jvkk/giphy.gif" width="50"> Something about myself...
+### <img align='left' src="https://media.giphy.com/media/mTs11L9uuyGiI/giphy.gif" width="50"> Something about myself...
 
 ```javascript
 const jamie = {
