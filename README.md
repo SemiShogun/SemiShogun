@@ -18,7 +18,7 @@ const jamie = {
      languages: [Javascript, Typescript, Java, HTML, CSS, Python],
      tools: [MongoDB, Express, React, Vue, Node, Spring Boot, SCSS, JSP],
      learning {
-          languages: [C++],
+          languages: [C++, Lua],
           architecture: ["microservices", "design patterns"]
      },
      hobbies: ["Programming", "Anime", "Gaming", "Sketching", "Jogging"],
