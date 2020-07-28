@@ -7,7 +7,7 @@ My name's Jamie and I strive to be a better programmer.
 <em>Software Engineer Apprentice at <a href="https://ethz.ch/de.html">ETHz</a></em>
 
 <em>Living in Zürich, Switzerland</em>
-
+ 
 <br>
 
 ### <img align='left' src="https://media.giphy.com/media/mTs11L9uuyGiI/giphy.gif" width="50"> Something about myself...
