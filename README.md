@@ -25,10 +25,10 @@ const jamie = {
      todo {
           website: "Create a personalised website with an integrated Javascript CMS",
           anime: "Create an Anilist bot that automatically tracks your read mangas",
-          discord: "Create some dumb discord bot, idk",
           codeforces: "Become a competitive programmer",
           codewars: "Advance to Kyu 5",
-          app: "Tinder for dogs?"
+          app: "Tinder for dogs?",
+          ereader: "Some sorta E-Reader for your favourite news outlets"
      },
      favoriteAnimes: ["Re:Zero", "Uchuu Senkan Yamato 2199", "Shinsekai Yori", "Baka to Test to Shoukanjuu", "Steins;Gate", "Tengen Toppa Gurren Lagann", "World Torigga"]
 }
