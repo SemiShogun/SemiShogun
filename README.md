@@ -17,9 +17,10 @@ const jamie = {
      pronouns: "he" | "him",
      languages: [Javascript, Typescript, Java, HTML, CSS, Python],
      tools: [MongoDB, Express, React, Vue, Node, Spring Boot, SCSS, JSP],
-     learning {
-          languages: [C++, Lua],
-          architecture: ["microservices", "design patterns"]
+     interests {
+          languages: [C++, Lua, Elixir, Rust],
+          architectures: ["microservices", "design patterns"],
+          frameworks: ["Phoenix", "Nickel"]
      },
      hobbies: ["Programming", "Anime", "Gaming", "Sketching", "Jogging"],
      todo {
