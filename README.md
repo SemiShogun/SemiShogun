@@ -16,7 +16,8 @@ My name's Jamie and I strive to be a better programmer.
 const jamie = {
      pronouns: "he" | "him",
      languages: [Javascript, Typescript, Java, HTML, CSS, Python],
-     tools: [MongoDB, Express, React, Vue, Node, Spring Boot, SCSS, JSP],
+     tools: [MongoDB, Express, React, Vue, Node, Spring Boot, SCSS, JSP, Flask],
+     database: [MySQL, Oracle SQL, SQLite],
      interests {
           languages: [C++, Lua, Elixir, Rust],
           architectures: ["microservices", "design patterns"],
