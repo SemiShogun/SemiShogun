@@ -31,7 +31,8 @@ const jamie = {
           codewars: "Advance to Kyu 5",
           app: "Tinder for dogs?",
           ereader: "Some sorta E-Reader for your favourite news outlets", 
-          tracker: "Create an anime tracker like Taiga"
+          tracker: "Create an anime tracker like Taiga",
+          framework: "Create a CSS Framework for 'oldscool' components",
      },
      favoriteAnimes: ["Re:Zero", "Uchuu Senkan Yamato 2199", "Shinsekai Yori", "Baka to Test to Shoukanjuu", "Steins;Gate", "Tengen Toppa Gurren Lagann", "World Torigga"]
 }
