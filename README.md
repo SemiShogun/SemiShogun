@@ -15,24 +15,21 @@ My name's Jamie and I strive to be a better programmer.
 ```javascript
 const jamie = {
      pronouns: "he" | "him",
-     languages: [Javascript, Typescript, Java, HTML, CSS, Python],
-     tools: [MongoDB, Express, React, Vue, Node, Spring Boot, SCSS, JSP, Flask],
-     database: [MySQL, Oracle SQL, SQLite],
+     languages: [Javascript, Typescript, Java, HTML, CSS, SCSS, Python, Bash, a bit of C++],
+     frameworks: [Express, React, Vue, Node, Spring Boot, Flask],
+     orm: [JPA, TypeORM, SQLAlchemy],
+     databases: [MySQL, Oracle SQL, SQLite, H2],
+     dislikes: [JSP, MS Access],
      interests {
-          languages: [C++, Lua, Elixir, Rust],
-          architectures: ["microservices", "design patterns"],
-          frameworks: ["Phoenix", "Nickel"]
+          languages: [Lua, Elixir, Rust],
      },
-     hobbies: ["Programming", "Anime", "Gaming", "Sketching", "Jogging"],
+     hobbies: ["Programming", "Anime", "Gaming", "Jogging"],
      todo {
           website: "Create a personalised website with an integrated Javascript CMS",
           anime: "Create an Anilist bot that automatically tracks your read mangas",
           codeforces: "Become a competitive programmer",
           codewars: "Advance to Kyu 5",
           app: "Tinder for dogs?",
-          ereader: "Some sorta E-Reader for your favourite news outlets", 
-          tracker: "Create an anime tracker like Taiga",
-          framework: "Create a CSS Framework for 'oldscool' components",
      },
      favoriteAnimes: ["Re:Zero", "Uchuu Senkan Yamato 2199", "Shinsekai Yori", "Baka to Test to Shoukanjuu", "Steins;Gate", "Tengen Toppa Gurren Lagann", "World Torigga"]
 }
