@@ -1,5 +1,7 @@
 <h2>Why hi there! ヽ(✿ﾟ▽ﾟ)ノ</h2>
 
+![Profile Views](https://komarev.com/ghpvc/?username=SemiShogun)
+
 <img align='right' src="https://media1.tenor.com/images/bb3c7292d3c2e75ba4b51ec15bb9bf3b/tenor.gif?itemid=17227125" width="250">
 
 My name's Jamie and I strive to be a better programmer.
