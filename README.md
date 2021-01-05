@@ -18,6 +18,7 @@ My name's Jamie and I strive to be a better programmer.
 const jamie = {
      pronouns: "he" | "him",
      languages: [Javascript, Typescript, Java, HTML, CSS, SCSS, Python, Bash, a bit of C++],
+     2020Goals: ["Flutter", "GraphQL", "URQL", "Feathers/Phoenix Liveview"],
      frameworks: [Express, React, Vue, Node, Spring Boot, Flask],
      orm: [JPA, TypeORM, SQLAlchemy],
      databases: [MySQL, Oracle SQL, SQLite, H2],
