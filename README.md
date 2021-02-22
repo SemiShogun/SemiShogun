@@ -23,6 +23,7 @@ const jamie = {
      orm: [JPA, TypeORM, SQLAlchemy],
      databases: [MySQL, Oracle SQL, SQLite, H2],
      dislikes: [JSP, MS Access],
+     hate: [Weblogic. Oracle SQL, everything Oracle related],
      interests {
           languages: [Lua, Elixir, Rust],
      },
