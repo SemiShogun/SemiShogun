@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SemiShogun)
 
-<img align='right' src="https://media1.tenor.com/images/bb3c7292d3c2e75ba4b51ec15bb9bf3b/tenor.gif?itemid=17227125" width="250">
+<!-- <img align='right' src="https://media1.tenor.com/images/bb3c7292d3c2e75ba4b51ec15bb9bf3b/tenor.gif?itemid=17227125" width="250"> -->
 
 My name's Jamie and I strive to be a better programmer.
 
@@ -27,15 +27,13 @@ const jamie = {
      interests {
           languages: [Lua, Elixir, Rust],
      },
-     hobbies: ["Programming", "Anime", "Gaming", "Jogging"],
+     hobbies: ["Programming", "Movies", "Gaming", "Jogging"],
      todo {
           website: "Create a personalised website with an integrated Javascript CMS",
-          anime: "Create an Anilist bot that automatically tracks your read mangas",
           codeforces: "Become a competitive programmer",
           codewars: "Advance to Kyu 5",
-          app: "Tinder for dogs?",
-     },
-     favoriteAnimes: ["Re:Zero", "Uchuu Senkan Yamato 2199", "Shinsekai Yori", "Baka to Test to Shoukanjuu", "Steins;Gate", "Tengen Toppa Gurren Lagann", "World Torigga"]
+          app: "Tinder for dogs? Maybe?",
+     }
 }
 ```
 
