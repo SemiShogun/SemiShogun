@@ -8,23 +8,12 @@ I'm Jamie Lam, a 4th year software engineer apprentice from the luscious country
 
 During my freetime, I love to tinker around with various Javascript/Typescript technologies. So expect to find a lot of random Javascript repositories in my profile. 😉
 
-My dream is to create my own company and hopefully create something that will help others.
-
 <h3>A bit more about me... 👇👇👇</h3>
 
 ```javascript
 const jamie = {
   pronouns: "he" | "him",
-  languages: [
-    "Javascript",
-    "Typescript",
-    "Java",
-    "HTML",
-    "SCSS",
-    "Python",
-    "Bash",
-    "MySQL",
-  ],
+  languages: ["Javascript", "Typescript", "Java", "HTML", "SCSS", "Python", "Bash", "MySQL"],
   goals: ["NestJS", "GraphQL"],
   frameworks: {
     frontend: ["React", "Vue", "JSP"],
@@ -32,8 +21,7 @@ const jamie = {
   },
   dislikes: ["Everything Oracle related"],
   hobbies: ["Programming", "Movies", "Gaming", "Jogging"],
-  workingOn: {
-  },
+  workingOn: [null],
 };
 
 ```
