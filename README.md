@@ -21,7 +21,7 @@ const jamie = {
   },
   dislikes: ["Everything Oracle related"],
   hobbies: ["Programming", "Movies", "Gaming", "Jogging"],
-  workingOn: [null],
+  workingOn: ["Some blog posts"],
 };
 
 ```
