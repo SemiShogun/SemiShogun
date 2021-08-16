@@ -6,7 +6,7 @@
 
 I'm Jamie Lam, a 4th year software engineer apprentice from the luscious countryside of Zürich, Switzerland. 
 
-During my freetime, I love to tinker around with various Javascript/Typescript technologies. So expect to find a lot of random Javascript repositories in my profile. 😉
+During my freetime, I love to tinker around with various Javascript/Typescript technologies. So expect to find a lot of random Typescript repositories in my profile. 😉
 
 <h3>A bit more about me... 👇👇👇</h3>
 
