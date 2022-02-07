@@ -1,6 +1,6 @@
 <h2>Heya! 👋 Jamie here </h2>
 
-<img align='right' src="https://media.giphy.com/media/Wr5uHgH8ii0jm/giphy.gif" width="200">
+<img align='right' src="https://media.giphy.com/media/Wr5uHgH8ii0jm/giphy.gif" width="200" style="border-radius: 10px;">
 
 ♥♥♥ ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=) ♥♥♥
 
