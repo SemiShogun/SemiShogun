@@ -1,0 +1,96 @@
+<svg width="479" height="108" viewBox="0 0 479 108" fill="none" class="logo" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+      .logo {
+        animation: fill 0.5s ease forwards 5s;
+      }
+
+      .logo path:nth-child(2) {
+        transition-delay: initial;
+        transition-duration: 5s;
+        transition-property: initial;
+        stroke-dasharray: 604px;
+        stroke-dashoffset: 604px;
+        animation: line-anim 2s ease forwards;
+      }
+
+      .logo path:nth-child(3) {
+        transition-delay: initial;
+        transition-duration: 5s;
+        transition-property: initial;
+        stroke-dasharray: 515px;
+        stroke-dashoffset: 515px;
+        animation: line-anim 2s ease forwards 0.3s;
+      }
+
+      .logo path:nth-child(4) {
+        transition-delay: initial;
+        transition-duration: 5s;
+        transition-property: initial;
+        stroke-dasharray: 398px;
+        stroke-dashoffset: 398px;
+        animation: line-anim 2s ease forwards 0.6s;
+      }
+
+      .logo path:nth-child(5) {
+        transition-delay: initial;
+        transition-duration: 5s;
+        transition-property: initial;
+        stroke-dasharray: 314px;
+        stroke-dashoffset: 314px;
+        animation: line-anim 2s ease forwards 0.9s;
+      }
+
+      .logo path:nth-child(6) {
+        transition-delay: initial;
+        transition-duration: 5s;
+        transition-property: initial;
+        stroke-dasharray: 433px;
+        stroke-dashoffset: 433px;
+        animation: line-anim 2s ease forwards 1.2s;
+      }
+
+      .logo path:nth-child(7) {
+        transition-delay: initial;
+        transition-duration: 5s;
+        transition-property: initial;
+        stroke-dasharray: 312px;
+        stroke-dashoffset: 312px;
+        animation: line-anim 2s ease forwards 1.5s;
+      }
+
+      @keyframes line-anim {
+        to {
+          stroke-dashoffset: 0;
+        }
+      }
+
+      @keyframes fill {
+        from {
+          fill: transparent;
+        }
+
+        to {
+          fill: white;
+        }
+      }
+    </style>
+  </defs>
+  <path d="M81.5312 104H68.4272L15.7233 24.08V104H2.61926V3.48801H15.7233L68.4272 83.264V3.48801H81.5312V104Z"
+    style="--darkreader-inline-fill: currentColor" data-darkreader-inline-fill="" stroke="black" stroke-width="2" />
+  <path
+    d="M175.869 61.52C175.869 64.016 175.725 66.656 175.437 69.44H112.365C112.845 77.216 115.485 83.312 120.285 87.728C125.181 92.048 131.085 94.208 137.997 94.208C143.661 94.208 148.365 92.912 152.109 90.32C155.949 87.632 158.637 84.08 160.173 79.664H174.285C172.173 87.248 167.949 93.44 161.613 98.24C155.277 102.944 147.405 105.296 137.997 105.296C130.509 105.296 123.789 103.616 117.837 100.256C111.981 96.896 107.373 92.144 104.013 86C100.653 79.76 98.9733 72.56 98.9733 64.4C98.9733 56.24 100.605 49.088 103.869 42.944C107.133 36.8 111.693 32.096 117.549 28.832C123.501 25.472 130.317 23.792 137.997 23.792C145.485 23.792 152.109 25.424 157.869 28.688C163.629 31.952 168.045 36.464 171.117 42.224C174.285 47.888 175.869 54.32 175.869 61.52ZM162.333 58.784C162.333 53.792 161.229 49.52 159.021 45.968C156.813 42.32 153.789 39.584 149.949 37.76C146.205 35.84 142.029 34.88 137.421 34.88C130.797 34.88 125.133 36.992 120.429 41.216C115.821 45.44 113.181 51.296 112.509 58.784H162.333Z"
+    style="--darkreader-inline-fill: currentColor" data-darkreader-inline-fill="" stroke="black" stroke-width="2" />
+  <path
+    d="M188.27 64.4C188.27 56.24 189.902 49.136 193.166 43.088C196.43 36.944 200.942 32.192 206.702 28.832C212.558 25.472 219.23 23.792 226.718 23.792C236.414 23.792 244.382 26.144 250.622 30.848C256.958 35.552 261.134 42.08 263.15 50.432H249.038C247.694 45.632 245.054 41.84 241.118 39.056C237.278 36.272 232.478 34.88 226.718 34.88C219.23 34.88 213.182 37.472 208.574 42.656C203.966 47.744 201.662 54.992 201.662 64.4C201.662 73.904 203.966 81.248 208.574 86.432C213.182 91.616 219.23 94.208 226.718 94.208C232.478 94.208 237.278 92.864 241.118 90.176C244.958 87.488 247.598 83.648 249.038 78.656H263.15C261.038 86.72 256.814 93.2 250.478 98.096C244.142 102.896 236.222 105.296 226.718 105.296C219.23 105.296 212.558 103.616 206.702 100.256C200.942 96.896 196.43 92.144 193.166 86C189.902 79.856 188.27 72.656 188.27 64.4Z"
+    style="--darkreader-inline-fill: currentColor" data-darkreader-inline-fill="" stroke="black" stroke-width="2" />
+  <path
+    d="M296.619 35.888V82.4C296.619 86.24 297.435 88.976 299.067 90.608C300.699 92.144 303.531 92.912 307.563 92.912H317.211V104H305.403C298.107 104 292.635 102.32 288.987 98.96C285.339 95.6 283.515 90.08 283.515 82.4V35.888H273.291V25.088H283.515V5.216H296.619V25.088H317.211V35.888H296.619Z"
+    style="--darkreader-inline-fill: currentColor" data-darkreader-inline-fill="" stroke="black" stroke-width="2" />
+  <path
+    d="M367.504 105.296C360.112 105.296 353.392 103.616 347.344 100.256C341.392 96.896 336.688 92.144 333.232 86C329.872 79.76 328.192 72.56 328.192 64.4C328.192 56.336 329.92 49.232 333.376 43.088C336.928 36.848 341.728 32.096 347.776 28.832C353.824 25.472 360.592 23.792 368.08 23.792C375.568 23.792 382.336 25.472 388.384 28.832C394.432 32.096 399.184 36.8 402.64 42.944C406.192 49.088 407.968 56.24 407.968 64.4C407.968 72.56 406.144 79.76 402.496 86C398.944 92.144 394.096 96.896 387.952 100.256C381.808 103.616 374.992 105.296 367.504 105.296ZM367.504 93.776C372.208 93.776 376.624 92.672 380.752 90.464C384.88 88.256 388.192 84.944 390.688 80.528C393.28 76.112 394.576 70.736 394.576 64.4C394.576 58.064 393.328 52.688 390.832 48.272C388.336 43.856 385.072 40.592 381.04 38.48C377.008 36.272 372.64 35.168 367.936 35.168C363.136 35.168 358.72 36.272 354.688 38.48C350.752 40.592 347.584 43.856 345.184 48.272C342.784 52.688 341.584 58.064 341.584 64.4C341.584 70.832 342.736 76.256 345.04 80.672C347.44 85.088 350.608 88.4 354.544 90.608C358.48 92.72 362.8 93.776 367.504 93.776Z"
+    style="--darkreader-inline-fill: currentColor" data-darkreader-inline-fill="" stroke="black" stroke-width="2" />
+  <path
+    d="M475.741 3.63199V77.792C475.741 86.048 473.197 92.672 468.109 97.664C463.021 102.56 456.301 105.008 447.949 105.008C439.501 105.008 432.733 102.512 427.645 97.52C422.557 92.432 420.013 85.52 420.013 76.784H433.117C433.213 81.68 434.461 85.664 436.861 88.736C439.357 91.808 443.053 93.344 447.949 93.344C452.845 93.344 456.493 91.904 458.893 89.024C461.293 86.048 462.493 82.304 462.493 77.792V3.63199H475.741Z"
+    style="--darkreader-inline-fill: currentColor" data-darkreader-inline-fill="" stroke="black" stroke-width="2" />
+</svg>
