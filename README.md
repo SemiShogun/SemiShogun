@@ -1,4 +1,9 @@
-<h2>Heya! 👋 Jamie here </h2>
+
+<div align="center">
+  <img src="./nectoj.svg">
+</div>
+
+<h2 align="center">Heya! 👋 Jamie here </h2>
 
 <img align='right' src="https://media.giphy.com/media/Wr5uHgH8ii0jm/giphy.gif" width="200" style="border-radius: 10px;">
 
