@@ -2,7 +2,7 @@
   <defs>
     <style type="text/css">
       .logo {
-        animation: fill 0.5s ease forwards 5s;
+        animation: fill 0.5s ease forwards 3.5s;
       }
 
       .logo path:nth-child(2) {
