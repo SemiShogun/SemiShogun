@@ -35,6 +35,5 @@ const jamie = {
 <!-- Guestbook -->
 | Name | Date | Message |
 |---|---|---|
-|[![SemiShogun](https://avatars.githubusercontent.com/u/49059201?s=24&u=afeaa32f28191466b4f8c1ae408174ae304672ac&v=4)SemiShogun](https://github.com/SemiShogun)|5/2/2022, 11:10:21 AM|<script>alert("hahahaha");</script> />|
 |[![SemiShogun](https://avatars.githubusercontent.com/u/49059201?s=24&u=afeaa32f28191466b4f8c1ae408174ae304672ac&v=4)SemiShogun](https://github.com/SemiShogun)|5/2/2022, 11:08:56 AM|What happens if I edit a comment? Would it update the entry automatically?|
 <!-- /Guestbook -->
