@@ -30,3 +30,9 @@ const jamie = {
 };
 
 ```
+
+## Guestbook ([🖊️ add an entry](https://github.com/SemiShogun/SemiShogun/issues/3))
+<!-- Guestbook -->
+| Name | Date | Message |
+|---|---|---|
+<!-- /Guestbook -->
