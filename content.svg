@@ -1,0 +1,99 @@
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+          @import url('https://fonts.googleapis.com/css2?family=Nunito&family=Open+Sans:ital,wght@0,300;0,400;0,500;1,300;1,400&display=swap');
+
+          body {
+            font-family: 'Nunito', sans-serif;
+          }
+
+          .guestbook-wrapper {
+            height: 35em;
+            overflow-y: scroll;
+            overflow-x: hidden;
+            display: flex;
+            justify-content: center;
+            padding: 1em;
+          }
+
+          table {
+            border-radius: 30px;
+            border-style: hidden;
+            border-collapse: collapse;
+            table-layout: fixed;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+            border: 2px solid #009879;
+          }
+
+          th {
+            background-color: #009879;
+            color: #ffffff;
+          }
+
+          th, td {
+            padding: 12px 15px;
+          }
+
+          th {
+            padding: 20px 15px;
+            font-weight: 500;
+            font-weight: bold;
+          }
+
+          tr:nth-child(odd) {
+            background-color: #f3f3f3;
+          }
+      </style>
+
+      <h2 align="center">Heya! 👋 Jamie here </h2>
+      <img align='right' src="https://media.giphy.com/media/Wr5uHgH8ii0jm/giphy.gif" width="200" style="border-radius: 10px;">
+
+      ♥♥♥ ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=) ♥♥♥
+
+      <span>I'm Jamie Lam, a 4th year software engineer apprentice from the luscious countryside of Zürich, Switzerland.</span>
+      <span>During my freetime, I love to tinker around with various Javascript/Typescript technologies. So expect to find a lot of random Typescript repositories in my profile. 😉</span>
+
+      <h3>A bit more about me... 👇👇👇</h3>
+
+      ```javascript
+      const jamie = {
+        pronouns: "he" | "him",
+        languages: ["Javascript", "Typescript", "Java", "HTML", "SCSS", "Python", "Bash", "MySQL"],
+        goals: ["NestJS", "GraphQL"],
+        frameworks: {
+          frontend: ["React", "Vue", "JSP"],
+          backend: ["Flask", "Spring Boot", "NodeJS"],
+        },
+        dislikes: ["Everything Oracle related"],
+        hobbies: ["Programming", "Movies", "Gaming", "Jogging"],
+        workingOn: ["Some blog posts"],
+      };
+
+      ```
+
+      ## Guestbook ([🖊️ add an entry](https://github.com/SemiShogun/SemiShogun/issues/3))
+
+      <div class="guestbook-wrapper">
+
+      <!-- Guestbook -->
+      | Name | Date | Message |
+      |---|---|---|
+      |[![SemiShogun](https://avatars.githubusercontent.com/u/49059201?s=24&u=afeaa32f28191466b4f8c1ae408174ae304672ac&v=4)SemiShogun](https://github.com/SemiShogun)|5/2/2022, 11:18:22 AM|🖊 Feel free to add a comment here!|
+      |[![SemiShogun](https://avatars.githubusercontent.com/u/49059201?s=24&u=afeaa32f28191466b4f8c1ae408174ae304672ac&v=4)SemiShogun](https://github.com/SemiShogun)|5/2/2022, 11:18:22 AM|🖊 Feel free to add a comment here!|
+      |[![SemiShogun](https://avatars.githubusercontent.com/u/49059201?s=24&u=afeaa32f28191466b4f8c1ae408174ae304672ac&v=4)SemiShogun](https://github.com/SemiShogun)|5/2/2022, 11:18:22 AM|🖊 Feel free to add a comment here!|
+      |[![SemiShogun](https://avatars.githubusercontent.com/u/49059201?s=24&u=afeaa32f28191466b4f8c1ae408174ae304672ac&v=4)SemiShogun](https://github.com/SemiShogun)|5/2/2022, 11:18:22 AM|🖊 Feel free to add a comment here!|
+      |[![SemiShogun](https://avatars.githubusercontent.com/u/49059201?s=24&u=afeaa32f28191466b4f8c1ae408174ae304672ac&v=4)SemiShogun](https://github.com/SemiShogun)|5/2/2022, 11:18:22 AM|🖊 Feel free to add a comment here!|
+      |[![SemiShogun](https://avatars.githubusercontent.com/u/49059201?s=24&u=afeaa32f28191466b4f8c1ae408174ae304672ac&v=4)SemiShogun](https://github.com/SemiShogun)|5/2/2022, 11:18:22 AM|🖊 Feel free to add a comment here!|
+      |[![SemiShogun](https://avatars.githubusercontent.com/u/49059201?s=24&u=afeaa32f28191466b4f8c1ae408174ae304672ac&v=4)SemiShogun](https://github.com/SemiShogun)|5/2/2022, 11:18:22 AM|🖊 Feel free to add a comment here!|
+      |[![SemiShogun](https://avatars.githubusercontent.com/u/49059201?s=24&u=afeaa32f28191466b4f8c1ae408174ae304672ac&v=4)SemiShogun](https://github.com/SemiShogun)|5/2/2022, 11:18:22 AM|🖊 Feel free to add a comment here!|
+      |[![SemiShogun](https://avatars.githubusercontent.com/u/49059201?s=24&u=afeaa32f28191466b4f8c1ae408174ae304672ac&v=4)SemiShogun](https://github.com/SemiShogun)|5/2/2022, 11:18:22 AM|🖊 Feel free to add a comment here!|
+      |[![SemiShogun](https://avatars.githubusercontent.com/u/49059201?s=24&u=afeaa32f28191466b4f8c1ae408174ae304672ac&v=4)SemiShogun](https://github.com/SemiShogun)|5/2/2022, 11:18:22 AM|🖊 Feel free to add a comment here!|
+      |[![SemiShogun](https://avatars.githubusercontent.com/u/49059201?s=24&u=afeaa32f28191466b4f8c1ae408174ae304672ac&v=4)SemiShogun](https://github.com/SemiShogun)|5/2/2022, 11:18:22 AM|🖊 Feel free to add a comment here!|
+      <!-- /Guestbook -->
+
+      </div>
+
+    </div>
+  </foreignObject>
+</svg>
