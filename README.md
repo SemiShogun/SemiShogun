@@ -8,7 +8,7 @@
 
 ♥♥♥ ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=) ♥♥♥
 
-I'm Jamie Lam, a 4th year software engineer apprentice from the luscious countryside of Zürich, Switzerland. 
+I'm Jamie, a 4th year software engineer apprentice from the luscious countryside of Zürich, Switzerland. 
 
 During my freetime, I love to tinker around with various Javascript/Typescript technologies. So expect to find a lot of random Typescript repositories in my profile. 😉
 
